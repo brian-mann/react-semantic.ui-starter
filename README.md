@@ -68,7 +68,7 @@ TL;DR: You're always free to use your own UI framework. The starter is "UI-frame
 #### Install:
 ```bash
 # clone repo without full git history
-git clone --depth=1 https://github.com/Metnew/react-semantic.ui-starter.git
+git clone --depth=1 https://github.com/brian-mann/react-semantic.ui-starter.git
 cd react-semantic.ui-starter
 # You can remove .git folder if you don't want to pull new features or need your own repo
 # to remove folder run: rm -rf .git
